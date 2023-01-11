@@ -1,3 +1,7 @@
+# Fork details
+Trying out "Customizing GitHub Codespaces for C++ Projects" guide: https://devblogs.microsoft.com/cppblog/customizing-github-codespaces-for-cpp-projects/?WT.mc_id=academic-0000-abartolo
+
+
 # Vcpkg: Overview
 
 [中文总览](https://github.com/microsoft/vcpkg/blob/master/README_zh_CN.md)
